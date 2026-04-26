@@ -1,0 +1,113 @@
+# 🤖 Diplomado IA Generativa - Ingeniería de Prompts y Agentes Inteligentes
+
+Repositorio del **Diplomado en IA Generativa: Ingeniería de Prompts y Agentes Inteligentes** de la Universidad de La Sabana.
+
+Este espacio está diseñado para centralizar prácticas, proyectos, notas y desarrollos realizados durante el curso.
+
+---
+
+## 📚 Descripción
+
+Este diplomado ofrece una formación práctica y progresiva que abarca:
+
+* Fundamentos de la **IA generativa**
+* Técnicas de **prompt engineering**
+* Desarrollo de **agentes inteligentes**
+* Creación de **contenido automatizado y multimedia**
+
+El enfoque es aplicado, con casos reales y un proyecto final orientado a resolver problemas del mundo real.
+
+---
+
+## 🎯 Objetivos
+
+* Comprender cómo funcionan los modelos generativos (LLMs)
+* Diseñar prompts efectivos para distintos casos de uso
+* Construir soluciones con agentes inteligentes
+* Aplicar IA en contextos reales (negocio, educación, tecnología)
+* Desarrollar pensamiento crítico sobre el uso de IA
+
+---
+
+## 🧠 Contenidos principales
+
+* Introducción a la IA generativa
+* Modelos de lenguaje (LLMs)
+* Ingeniería de prompts
+* Frameworks de IA (LangChain, APIs, etc.)
+* Embeddings y vector stores
+* Construcción de chatbots
+* Agentes autónomos
+* Ética y uso responsable de la IA
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* Python 🐍
+* LangChain
+* OpenAI API / LLMs
+* Hugging Face
+* Vector databases (DeepLake, etc.)
+* Jupyter / notebooks
+
+---
+
+## 🚀 Cómo usar este repositorio
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/orodriguezm1/DiplomadoIA.git
+cd DiplomadoIA
+```
+
+2. Crear el entorno:
+
+```bash
+conda env create -f DiplomadoIA.yml
+conda activate Chatbots
+```
+
+3. Ejecutar notebooks o scripts según el módulo
+
+---
+
+## 📌 Metodología
+
+El aprendizaje se basa en:
+
+* Ejercicios prácticos
+* Casos reales
+* Desarrollo incremental de proyectos
+* Trabajo autónomo + sesiones guiadas
+
+---
+
+## ⚠️ Consideraciones éticas
+
+Este repositorio promueve:
+
+* Uso responsable de la IA
+* Evaluación crítica de resultados
+* Transparencia en el uso de modelos generativos
+
+---
+
+## 📅 Información del diplomado
+
+* Modalidad: Virtual sincrónica
+* Enfoque: práctico + aplicado
+
+---
+
+## 👨‍💻 Autor
+
+**PhD. Oscar Rodríguez**
+Repositorio académico y de aprendizaje
+
+---
+
+## 📄 Licencia
+
+Uso educativo y personal.
